@@ -36,4 +36,4 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am anti-harassment. I don't believe that people should be harassed, bullied, or attacked for something that they like in fiction.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Are you a darkshipper? Do you support that outside of fiction?}}}}$</p>
-<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes, I am a darkshipper. No, I do not support anything "dark" in real life. }}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes, I am a darkshipper. No, I do not support anything "dark" or "problematic" in real life. }}}}$</p>
