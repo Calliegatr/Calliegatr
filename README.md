@@ -23,3 +23,6 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What server are you usually in?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{You will most likely find me in the 18+ server, although I will sometimes be in the safe server with a friend.}}}}$</p>
+
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Where do you normally sit?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am often times at the "Proship Tree" in both 18+ and safe.}}}}$</p>
