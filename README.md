@@ -11,11 +11,11 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I do not have a set DNI list, I block freely.}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{F.A.Q.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{F.A.Q.}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{What server are you usually in?}}}}$</p>
-<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{You will most likely find me in the 18+ server, although I will sometimes be in the safe server with a friend.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What server are you usually in?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{You will most likely find me in the 18+ server, although I will sometimes be in the safe server with a friend.}}}}$</p>
