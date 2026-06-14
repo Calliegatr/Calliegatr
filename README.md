@@ -32,6 +32,9 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What are your boundaries?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am pretty chill when it comes to boundaries and I will let you know when you've gone too far. Flirting as a joke is okay.}}}}$</p>
 
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Why are you, as an adult, in the safe server?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I find that there are often kinder people in the safe server, but obviously I don't spend a lot of time there.}}}}$</p>
+
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{18+ F.A.Q.}}}}$</p>
