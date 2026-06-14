@@ -41,6 +41,9 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Is this a safe space?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes! Feel free to talk to me about any of your ships/fandoms.}}}}$</p>
+
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Why are you a proshipper? What does that mean?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am anti-harassment. I don't believe that people should be harassed, bullied, or attacked for something that they like in fiction.}}}}$</p>
 
