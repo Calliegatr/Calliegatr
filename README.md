@@ -1,5 +1,5 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈°❀.ೃ࿔* MINORS DO NOT INTERACT! °❀.ೃ࿔*🌈🍖}}}}$</p>
-<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am proship, profiction, and anti-harassment.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am <i>proship, profiction, and anti-harassment</i>.}}}}$</p>
 <p align="center" dir="auto">${{\color{#f3f4ee}{\texttt{See something you don't like? Block me.}}}}$</p><hr>
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="850"></div>
