@@ -31,3 +31,6 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What are your boundaries?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am pretty chill when it comes to boundaries and I will let you know when you've gone too far. Flirting as a joke is okay.}}}}$</p>
+
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Why are you a proshipper?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am anti-harassment. I don't believe that people should be harassed, bullied, or attacked for something that they like in fiction.}}}}$</p>
