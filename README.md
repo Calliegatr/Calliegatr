@@ -5,4 +5,4 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p><hr>
 
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Small{\texttt{🍖🌈˚✩°｡⋆ 𝖬𝖨𝖭𝖮𝖱𝖲 𝖣𝖮 𝖭𝖮𝖳 𝖨𝖭𝖳𝖤𝖱𝖠𝖢𝖳! ⋆｡°✩˚🌈🍖}}}}$</p><hr>
+<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{🍖🌈˚✩°｡⋆ 𝖬𝖨𝖭𝖮𝖱𝖲 𝖣𝖮 𝖭𝖮𝖳 𝖨𝖭𝖳𝖤𝖱𝖠𝖢𝖳! ⋆｡°✩˚🌈🍖}}}}$</p><hr>
