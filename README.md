@@ -14,3 +14,6 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{F.A.Q.}}}}$</p>
+
+<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{What server are you usually in?}}}}$</p>
+<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{You will most likely find me in the 18+ server, although I will sometimes be in the safe server with a friend.}}}}$</p>
