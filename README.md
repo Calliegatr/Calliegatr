@@ -1,4 +1,4 @@
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈˚✩°｡⋆ 𝖬𝖨𝖭𝖮𝖱𝖲 𝖣𝖮 𝖭𝖮𝖳 𝖨𝖭𝖳𝖤𝖱𝖠𝖢𝖳! ⋆｡°✩˚🌈🍖}}}}$</p>
+<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈°❀.ೃ࿔* 𝖬𝖨𝖭𝖮𝖱𝖲 𝖣𝖮 𝖭𝖮𝖳 𝖨𝖭𝖳𝖤𝖱𝖠𝖢𝖳! °❀.ೃ࿔*🌈🍖}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am proship, profiction, and anti-harassment.}}}}$</p>
 <p align="center" dir="auto">${{\color{#f3f4ee}{\texttt{See something you don't like? Block me.}}}}$</p><hr>
 
