@@ -44,6 +44,12 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Why are you a proshipper? What does that mean?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am anti-harassment. I don't believe that people should be harassed, bullied, or attacked for something that they like in fiction.}}}}$</p>
 
+<i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Informative documents and websites on the topic here!</a></p></i>
+
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Are you a darkshipper? Do you support that outside of fiction?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes, I am a darkshipper. No, I do not support anything "dark" or "problematic" in real life. }}}}$</p>
+
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Are you a loli/shota/kodocon?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am a lolicon. No, I do not support pedophiles or the sexualization of children in real life. }}}}$</p>
+
 
