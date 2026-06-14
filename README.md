@@ -65,7 +65,7 @@
 
 <div style="text-align: center;">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" class="center">
-  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" class="center">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/kiwandbas" class="center">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" class="center">
 </div>
 
