@@ -60,4 +60,3 @@
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-resize.gif" width="850"></div>
 
-![Alt Text](https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-resize.gif)
