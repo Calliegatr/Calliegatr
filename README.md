@@ -4,13 +4,14 @@
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="850"></div>
 
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{🦴🌸 Last updated: 6/14/2026 :3 🐾
+🤎}}}}$</math-renderer> </sup></p>
+
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{Introduction}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
-
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{•*. all made by me, free to use! .*•}}}}$</math-renderer> </sup></p>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Hello everyone! You can call me Callie or Goose. I use She/Her and It/Its pronouns.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
