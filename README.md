@@ -15,7 +15,7 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
 
-<i><p align="center" dir="auto">${{\color{#dbe3b2}<a href="https://meowwoof.atabook.org/">Sign my Atabook!</a></p></i>
+<i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Sign my Atabook!</a></p></i>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
