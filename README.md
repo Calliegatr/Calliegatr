@@ -61,7 +61,13 @@
 
 <p align="center" dir="auto">${{\color{#f3f4ee}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
-<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" width="130"><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" width="130"></div>
+<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" width="130">
+
+<div class="image-row">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 1">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 2">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 3">
+</div>
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-resize.gif" width="850"></div><hr>
 
