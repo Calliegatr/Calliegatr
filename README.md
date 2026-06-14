@@ -61,4 +61,5 @@
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-resize.gif" width="850"></div><hr>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{𖹭}}}}$</p>
+<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{Credits for decor go to @stimming-squids on Tumblr}}}}$</p>
 
