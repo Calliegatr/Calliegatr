@@ -64,9 +64,9 @@
 
 
 <div style="text-align: center;">
-  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 1">
-  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 2">
-  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Image 3">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Centered Image">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Centered Image">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" alt="Centered Image">
 </div>
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-resize.gif" width="850"></div><hr>
