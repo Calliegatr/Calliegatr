@@ -28,4 +28,4 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am often times at the "Proship Tree"/Docks in both 18+ and safe.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What are your boundaries?}}}}$</p>
-<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am pretty chill when it comes to boundaries}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am pretty chill when it comes to boundaries and I will let you know when you've gone too far, flirting as a joke is okay.}}}}$</p>
