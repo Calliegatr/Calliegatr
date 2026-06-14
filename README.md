@@ -2,10 +2,10 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am proship, profiction, and anti-harassment.}}}}$</p>
 <p align="center" dir="auto">${{\color{#f3f4ee}{\texttt{See something you don't like? Block me.}}}}$</p><hr>
 
-<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="850"></div>
-
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{🦴🌸 Last updated: 6/14/2026 :3 🐾
 🤎}}}}$</math-renderer> </sup></p>
+
+<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="850"></div>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
