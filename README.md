@@ -1,5 +1,5 @@
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{This is mainly for PonyTown.}}}}$</math-renderer> </sup></p>
-<hr><p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈°❀.ೃ࿔* MINORS DO NOT INTERACT! °❀.ೃ࿔*🌈🍖}}}}$</p>
+<hr><p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{This is mainly for PonyTown.}}}}$</math-renderer> </sup></p>
+<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈°❀.ೃ࿔* MINORS DO NOT INTERACT! °❀.ೃ࿔*🌈🍖}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am proship, profiction, and anti-harassment.}}}}$</p>
 <p align="center" dir="auto">${{\color{#f3f4ee}{\texttt{See something you don't like? Block me.}}}}$</p><hr>
 
