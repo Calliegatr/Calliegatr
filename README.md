@@ -47,6 +47,7 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What fandoms are you in?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Some of the fandoms I am in are: G.O.M.G., Nekopara, Cats The Musical, Signalis, Sonic, Umamusume, Warrior Cats, Splatoon, Avatar, Etc.}}}}$</p>
+<hr><p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{I am ALWAYS looking for new fandoms. So, if you know any similar to the ones stated above, let me know!}}}}$</math-renderer> </sup></p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
