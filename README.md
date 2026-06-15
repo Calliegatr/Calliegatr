@@ -43,7 +43,7 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I find that there are often kinder people in the safe server, but obviously I don't spend a lot of time there.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Can I friend you?}}}}$</p>
-<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes! Although, I try not to interact with minors. I will not friend minors. If I find out you are a minor you will be unfriended.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes! I try not to interact with minors for their safety and my own. I will not friend minors. If I find out you are a minor you will be unfriended.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What fandoms are you in?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Some of the fandoms I am in are: G.O.M.G., Nekopara, Cats The Musical, Signalis, Sonic, Umamusume, Warrior Cats, Splatoon, Avatar, Etc.}}}}$</p>
