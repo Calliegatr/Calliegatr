@@ -64,6 +64,9 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Are you a darkshipper? Do you support that outside of fiction?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes, I am a darkshipper. No, I do not support anything "dark" or "problematic" in real life. }}}}$</p>
 
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Are you a loli/shota/kodocon?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am a lolicon. No, I do not support pedophiles or the sexualization of children in real life. }}}}$</p>
+
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#e8e8ce}\small{\texttt{Follow the link below for more information.}}}}$</math-renderer> </sup></p>
 
 <i><p align="center" dir="auto"><a href="https://proshipresourcesaccessible.carrd.co/">Informative documents and websites on these topics here!</a></p></i>
