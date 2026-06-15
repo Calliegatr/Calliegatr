@@ -43,7 +43,7 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{18+ F.A.Q.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{"18+" F.A.Q.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
