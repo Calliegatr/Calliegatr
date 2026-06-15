@@ -22,7 +22,7 @@
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{Obviously do not interacti if you are: a pedophile/zoophile/homophobic/transphobic/etc.}}}}$</math-renderer> </sup></p>
 
 
-<i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/" style="color: #FF5733;">Ask questions, give compliments/feedback, or just say hello here!</a></p></i>
+<i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Ask questions, give compliments/feedback, or just say hello here!</a></p></i>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
