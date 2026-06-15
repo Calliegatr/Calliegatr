@@ -16,8 +16,10 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Hello everyone! You can call me Callie or Goose. I use She/Her and It/Its pronouns.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I am Autistic and have anxiety so I will probably not start conversations.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
+<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Please do not copy my skins, they are all made by me! Inspiration can be taken, but please ask first.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{Obviously do not interacti if you are: a pedophile/zoophile/homophobic/transphobic/etc.}}}}$</math-renderer> </sup></p>
+>
 
 <i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Ask questions, give compliments/feedback, or just say hello here!</a></p></i>
 
