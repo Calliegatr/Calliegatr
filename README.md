@@ -41,6 +41,7 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Why are you, as an adult, in the safe server?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I find that there are often kinder people in the safe server, but obviously I don't spend a lot of time there.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I try not to interact with minors. I will not friend minors, if I find out you are a minor you will be unfriended.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
