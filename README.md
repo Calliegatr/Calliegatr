@@ -45,6 +45,9 @@
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{Can I friend you?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Yes! Although, I try not to interact with minors. I will not friend minors. If I find out you are a minor you will be unfriended.}}}}$</p>
 
+<p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What fandoms are you in?}}}}$</p>
+<p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Some of the fandoms I am in are: G.O.M.G., Nekopara, Cats The Musical, Signalis, Sonic, Umamusume, Warrior Cats, Splatoon, Avatar, Etc.}}}}$</p>
+
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{"18+" F.A.Q.}}}}$</p>
