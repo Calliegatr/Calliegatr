@@ -1,9 +1,9 @@
-<hr><p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{This is mainly for PonyTown.}}}}$</math-renderer> </sup></p>
+<hr><p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{This is mainly for PonyTown.}}}}$</math-renderer> </sup></p>
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{🍖🌈°❀.ೃ࿔* MINORS DO NOT INTERACT! °❀.ೃ࿔*🌈🍖}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{I am proship, profiction, and anti-harassment.}}}}$</p>
 <p align="center" dir="auto">${{\color{#f3f4ee}{\texttt{See something you don't like? Block me.}}}}$</p><hr>
 
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{🦴🌸 Last updated: 6/15/2026 :3 🐾
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{🦴🌸 Last updated: 6/15/2026 :3 🐾
 🤎}}}}$</math-renderer> </sup></p>
 
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="850"></div>
@@ -19,7 +19,7 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Please do not copy my skins, they are all made by me! Inspiration can be taken, but please ask first.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{Obviously do not interacti if you are: a pedophile/zoophile/homophobic/transphobic/etc.}}}}$</math-renderer> </sup></p>
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{Obviously do not interacti if you are: a pedophile/zoophile/homophobic/transphobic/etc.}}}}$</math-renderer> </sup></p>
 
 
 <i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Ask questions, give compliments/feedback, or just say hello here!</a></p></i>
@@ -47,7 +47,7 @@
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{What fandoms are you in?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e8e8ce}{\texttt{Some of the fandoms I am in are: G.O.M.G., Nekopara, Cats The Musical, Signalis, Sonic, Umamusume, Warrior Cats, Splatoon, Avatar, Etc.}}}}$</p>
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#eddcaa}\small{\texttt{I am ALWAYS looking for new fandoms. So, if you know any similar to the ones stated above, let me know!}}}}$</math-renderer> </sup></p>
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{I am ALWAYS looking for new fandoms. So, if you know any similar to the ones stated above, let me know!}}}}$</math-renderer> </sup></p>
 
 <p align="center" dir="auto">${{\color{#e8e8ce}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
