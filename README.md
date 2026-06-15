@@ -79,7 +79,7 @@
 
 <div style="text-align: center;">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/meowd" class="center">
-  <img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-gif-maker.gif" class="center">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-gif-maker" class="center">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-gif-maker%20(1).webp" class="center">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/ezgif.com-gif-maker%20(2).webp" class="center">
   <img src="https://file.garden/aD2xFAhPrhYSaivD/nyaa" class="center">
