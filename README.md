@@ -7,7 +7,8 @@
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{🦴🌸 Last updated: 9/15/2026 :3 🐾
 🤎}}}}$</math-renderer> </sup></p>
 
-<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/tumblr_17ba709627d131de89bb4db429a09483_d9273dd9_2048.png" width="50"></div><hr>
+<div style="text-align: center;">
+  <img src="https://file.garden/aD2xFAhPrhYSaivD/noact" class="center">
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
