@@ -95,7 +95,7 @@
   <img src="https://file.garden/aD2xFAhPrhYSaivD/dnhiwo" class="center">
 </div>
 
-<hr><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/bottom" width="850"></div>
+<hr><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/dd" width="850"></div>
 
 <p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{𖹭}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Credits for "layout" images go to @stimming-squids on Tumblr}}}}$</p>
