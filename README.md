@@ -21,7 +21,16 @@
 <p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Please do not copy my skins, they are all made by me! Inspiration can be taken, but please ask first.}}}}$</p>
 <p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
 
-<img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" alt="My Image" style="display:block; margin-left:auto; margin-right:auto;">
+<img class="logo" src="https://file.garden/aD2xFAhPrhYSaivD/noatc" alt="Mimo logo">
+
+<style>
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
 
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#ebc9c7}\small{\texttt{Obviously do not interact if you are: a pro-contact predator/zoophile or are homophobic/transphobic/racist/etc.}}}}$</math-renderer> </sup></p>
 
