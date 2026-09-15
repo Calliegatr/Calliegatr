@@ -97,7 +97,7 @@
 
 <hr><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/dd" width="850"></div>
 
-<p align="center" dir="auto">${{\color{#dbe3b2}\Huge{\texttt{𖹭}}}}$</p>
-<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Credits for "layout" images go to @stimming-squids on Tumblr}}}}$</p>
-<p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Credits for Proship Resources Carrd go to @MissSkunky on GitHub}}}}$</p><hr>
+<p align="center" dir="auto">${{\color{#ebc9c7}\Huge{\texttt{𖹭}}}}$</p>
+<p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Credits for "layout" images go to @stimming-squids on Tumblr}}}}$</p>
+<p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Credits for Proship Resources Carrd go to @MissSkunky on GitHub}}}}$</p><hr>
 
