@@ -18,7 +18,7 @@
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Always feel free to C + H and interact! Most often times I am off-tab or busy (W2I).}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{Please do not copy my skins, they are all made by me! Inspiration can be taken, but please ask first.}}}}$</p>
 <p align="center" dir="auto">${{\color{#dbe3b2}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
-<hr><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" width="250"></div>
+<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" width="250"></div>
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{Obviously do not interact if you are: a pro-contact predator/zoophile or are homophobic/transphobic/racist/etc.}}}}$</math-renderer> </sup></p>
 
 
