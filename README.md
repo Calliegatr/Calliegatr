@@ -6,7 +6,7 @@
 <p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I am "proship" (anti-harassment), profiction, and a darkshipper.}}}}$</p>
 <p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{See something you don't like? Block me.}}}}$</p>
 
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#dbe3b2}\small{\texttt{🦴🌸 Last updated: 9/15/2026 :3 🐾
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#caadbd}\small{\texttt{🦴🌸 Last updated: 9/15/2026 :3 🐾
 🤎}}}}$</math-renderer> </sup></p>
 
 <p align="center" dir="auto">${{\color{#ebc9c7}\Huge{\texttt{────୨ৎ────}}}}$</p>
