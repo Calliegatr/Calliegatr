@@ -1,3 +1,4 @@
+<p align="center" dir="auto">${{\color{#ebc9c7}\Huge{\texttt{𖹭}}}}$</p>
 <div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/toper" width="850"></div>
 
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#da4026}{\texttt{! I am not responsible for anyone who does not follow the below warning. !}}}}$</math-renderer> </sup></p>
