@@ -39,7 +39,7 @@
 <p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{You will most likely find me in the 18+ server, although I will sometimes be in the safe server with a friend.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e1d6d0}\Huge{\texttt{Where do you normally sit?}}}}$</p>
-<p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I am often times at the "Proship Tree"/Docks in both 18+ and safe.}}}}$</p>
+<p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I am often times at the "Proship Tree", Docks, or the Club in both 18+ and safe.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#e1d6d0}\Huge{\texttt{What are your boundaries?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I am pretty chill when it comes to boundaries and I will let you know when you've gone too far.}}}}$</p>
