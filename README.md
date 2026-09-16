@@ -21,8 +21,8 @@
 <p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Please do not copy my skins, they are all made by me! Inspiration can be taken, but please ask first.}}}}$</p>
 <p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{I do not have a set DNI "list", just don't be a creep and all will be fine. I block freely.}}}}$</p>
 
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a"><img class="logo" src="https://file.garden/aD2xFAhPrhYSaivD/noatc" alt="Mimo logo">
-
+<a href="https://www.tumblr.com/dark--friction/807508697280593920/no-act-paraphile-movement-what-does-no-act?source=share">
+<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a"><img class="logo" src="https://file.garden/aD2xFAhPrhYSaivD/noatc" alt="Mimo logo"></a>
 
 
 
