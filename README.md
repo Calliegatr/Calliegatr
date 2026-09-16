@@ -58,7 +58,7 @@
 <p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{Is this a safe space?}}}}$</p>
-<p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{Yes! Feel free to talk to me about any of your ships/fandoms.}}}}$</p>
+<p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{Yes! Feel free to talk to me about any of your ships, fandoms, or general life stuff.}}}}$</p>
 
 <p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{Why are you a proshipper? What does that mean?}}}}$</p>
 <p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{I am anti-harassment. I don't believe that people should be harassed, bullied, or attacked for something that they like in fiction.}}}}$</p>
@@ -88,6 +88,4 @@
 <hr><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/dd" width="850"></div>
 
 <p align="center" dir="auto">${{\color{#ebc9c7}\Huge{\texttt{𖹭}}}}$</p>
-<p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Credits for "layout" images go to @stimming-squids on Tumblr}}}}$</p>
-<p align="center" dir="auto">${{\color{#ebc9c7}{\texttt{Credits for Proship Resources Carrd go to @MissSkunky on GitHub}}}}$</p><hr>
 
