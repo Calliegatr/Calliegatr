@@ -24,7 +24,9 @@
 <a href="https://www.tumblr.com/dark--friction/807508697280593920/no-act-paraphile-movement-what-does-no-act?source=share">
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a"><img class="logo" src="https://file.garden/aD2xFAhPrhYSaivD/noatc" alt="Mimo logo"></a>
 
-
+<a href="https://www.tumblr.com/dark--friction/807508697280593920/no-act-paraphile-movement-what-does-no-act?source=share">
+ <img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" />
+</a>
 
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#ebc9c7}\small{\texttt{Obviously do not interact if you are: a pro-contact predator/zoophile or are homophobic/transphobic/racist/etc.}}}}$</math-renderer> </sup></p>
 
