@@ -44,9 +44,6 @@
 <p align="center" dir="auto">${{\color{#e1d6d0}\Huge{\texttt{What are your boundaries?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I am pretty chill when it comes to boundaries and I will let you know when you've gone too far.}}}}$</p>
 
-<p align="center" dir="auto">${{\color{#e1d6d0}\Huge{\texttt{Why are you, as an adult, in the safe server?}}}}$</p>
-<p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{I find that there are often kinder people in the safe server, but obviously I don't spend a lot of time there.}}}}$</p>
-
 <p align="center" dir="auto">${{\color{#e1d6d0}\Huge{\texttt{Can I friend you?}}}}$</p>
 <p align="center" dir="auto">${{\color{#e1d6d0}{\texttt{Yes! I try not to interact with minors for their safety and my own. I will not friend minors. If I find out you are a minor you will be unfriended.}}}}$</p>
 
@@ -68,16 +65,6 @@
 
 <p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{Are you a darkshipper? Do you support that outside of fiction?}}}}$</p>
 <p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{Yes, I am a darkshipper. No, I do not support anything "dark" or "problematic" in real life. }}}}$</p>
-
-<p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{Are you a loli/shota/kodocon?}}}}$</p>
-<p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{I am a lolicon. No, I do not support pedophiles or the sexualization of children in real life. }}}}$</p>
-
-<p align="center" dir="auto">${{\color{#a9c3d4}\Huge{\texttt{What are your favorite dynamics?}}}}$</p>
-<p align="center" dir="auto">${{\color{#a9c3d4}{\texttt{Siscest and momcest are by far my absolute favorite dynamics. >⩊<}}}}$</p>
-
-<p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#a9c3d4}\small{\texttt{Follow the link below for more information.}}}}$</math-renderer> </sup></p>
-
-<i><p align="center" dir="auto"><a href="https://proshipresourcesaccessible.carrd.co/">Informative documents and websites on these topics here!</a></p></i>
 
 <p align="center" dir="auto">${{\color{#caadbd}\Huge{\texttt{────୨ৎ────}}}}$</p>
 
