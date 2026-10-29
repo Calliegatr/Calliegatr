@@ -25,7 +25,7 @@
 <p align="center" dir="auto"><sup> <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="75655e4a93ffec7978bfd9f1b52ef85a">${{\color{#ebc9c7}\small{\texttt{Obviously do not interact if you are: a pro-contact predator/zoophile/radqueer/xenosatanist or are homophobic/transphobic/racist/etc.}}}}$</math-renderer> </sup></p>
 
 
-<div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" width="200"></div>
+<p align="center" dir="auto"><div style="text-align: center;"><img src="https://file.garden/aD2xFAhPrhYSaivD/noatc" width="200"></div>
 
 
 <i><p align="center" dir="auto"><a href="https://meowwoof.atabook.org/">Ask questions, give compliments/feedback, or just say hello here!</a></p></i>
